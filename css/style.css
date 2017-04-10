@@ -21,7 +21,6 @@ nav {
 }
 
 nav a {
-  text-decoration: none;
   color: white;
 }
 
@@ -52,4 +51,5 @@ h4 {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
